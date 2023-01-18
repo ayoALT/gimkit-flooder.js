@@ -10,7 +10,7 @@ const Gimkit = require('gimkit-flooder.js');
 
 const gimkit = new Gimkit();
 
-gimkit.setPin(890045);
+gimkit.setPin(582887);
 
 gimkit.on('joined', player => {
     console.log(`${player} joined`);
